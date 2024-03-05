@@ -9,6 +9,11 @@ Experience the jank for yourself:
 
 [Click to download](https://github.com/andrewiankidd/legacy-vb-cellgame/releases/download/release/Debug.zip)
 
+## Running
+- With the form open, click 'Open world'
+- go into 'worlds' folder
+- select 'World 1.world'
+
 ## Video
 
 Click to play
